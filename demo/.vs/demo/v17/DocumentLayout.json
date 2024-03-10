@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hyd52\\source\\repos\\demo\\",
+  "WorkspaceRootPath": "E:\\GitHub PJ\\AutoPrint\\demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6671D2D5-271E-4111-BB4A-0CA2A17C7AF8}|demo.csproj|c:\\users\\hyd52\\source\\repos\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6671D2D5-271E-4111-BB4A-0CA2A17C7AF8}|demo.csproj|e:\\github pj\\autoprint\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6671D2D5-271E-4111-BB4A-0CA2A17C7AF8}|demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hyd52\\source\\repos\\demo\\Program.cs",
+              "DocumentMoniker": "E:\\GitHub PJ\\AutoPrint\\demo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hyd52\\source\\repos\\demo\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAAEAAAAAFAAAA",
+              "ToolTip": "E:\\GitHub PJ\\AutoPrint\\demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwC4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T10:14:30.622Z",
               "EditorCaption": ""

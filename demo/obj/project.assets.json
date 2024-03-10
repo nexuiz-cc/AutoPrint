@@ -237,11 +237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hyd52\\source\\repos\\demo\\demo.csproj",
+      "projectUniqueName": "E:\\GitHub PJ\\AutoPrint\\demo\\demo.csproj",
       "projectName": "demo",
-      "projectPath": "C:\\Users\\hyd52\\source\\repos\\demo\\demo.csproj",
+      "projectPath": "E:\\GitHub PJ\\AutoPrint\\demo\\demo.csproj",
       "packagesPath": "C:\\Users\\hyd52\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hyd52\\source\\repos\\demo\\obj\\",
+      "outputPath": "E:\\GitHub PJ\\AutoPrint\\demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hyd52\\AppData\\Roaming\\NuGet\\NuGet.Config",

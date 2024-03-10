@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xZ4KBwGH6BVOuMQRYE5b3BIkLpFvQhigCU8UsuwC/leTqaqBeu9lCbpTB5ZDVVecutlV1N79ej7h91RAn89nHA==",
+  "dgSpecHash": "x2f/aRKoSfa3WWV5V+3zU/ZVuRcF1pG027GusTnt92xvxu4uEua6U8bKJ5SU4dg81GCvhfw/NZzHwHyw9pUG8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hyd52\\source\\repos\\demo\\demo.csproj",
+  "projectFilePath": "E:\\GitHub PJ\\AutoPrint\\demo\\demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hyd52\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
     "C:\\Users\\hyd52\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",

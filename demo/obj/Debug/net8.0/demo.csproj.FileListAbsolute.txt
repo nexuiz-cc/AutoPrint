@@ -20,3 +20,26 @@ C:\Users\hyd52\source\repos\demo\obj\Debug\net8.0\ref\demo.dll
 C:\Users\hyd52\source\repos\demo\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\hyd52\source\repos\demo\bin\Debug\net8.0\System.Management.dll
 C:\Users\hyd52\source\repos\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\demo.exe
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\demo.deps.json
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\demo.dll
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\demo.pdb
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\System.CodeDom.dll
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\System.Management.dll
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub PJ\AutoPrint\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.sourcelink.json
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.csproj.Up2Date
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.dll
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\refint\demo.dll
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.pdb
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+E:\GitHub PJ\AutoPrint\demo\obj\Debug\net8.0\ref\demo.dll
